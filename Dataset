@@ -1,1 +1,32 @@
 
+---
+
+## 🧰 Technologies Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Jupyter Notebook
+- Joblib
+
+---
+
+## 📊 Machine Learning Models
+We train and compare:
+
+- Linear Regression  
+- Random Forest Regressor  
+
+Evaluation metrics:
+
+- RMSE (Root Mean Squared Error)
+- R² Score
+
+Random Forest often performs better for this dataset.
+
+---
+
+## ▶ How to Run
+
+### 1. Install Dependencies
+
